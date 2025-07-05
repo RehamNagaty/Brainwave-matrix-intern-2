@@ -1,0 +1,6 @@
+text,sentiment,selected_text,predicted_selected_text
+I love this,positive,love this,love this
+This is terrible,negative,terrible,This is
+It's okay,neutral,It's okay,It's okay
+Amazing product,positive,Amazing product,Amazing
+Not good,negative,Not good,Not
