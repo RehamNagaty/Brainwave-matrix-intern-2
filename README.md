@@ -57,6 +57,10 @@ Extract the portion of a tweet (`selected_text`) that reflects the sentiment (`p
 
 ---
 
-## By Reham Nagaty  
-Healthcare Data Analyst | Biostatistics specialist
+## Author
+
+Reham Nagaty  
+
+
+[LinkedIn](linkedin.com/in/reham-mohamed-nagaty/)
 
